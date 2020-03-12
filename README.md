@@ -6,6 +6,7 @@ Freelancer &amp; Remoter Toolkits
 https://freelancer.com <br>
 https://upwork.com <br>
 https://angel.co/remote <br>
+https://weworkremotely.com/<br>
 
 <h2>Resources</h2>
 
