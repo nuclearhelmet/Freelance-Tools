@@ -11,7 +11,7 @@ https://upwork.com <br>
 <h2>Resources</h2>
 
 https://hackerthemes.com/bootstrap-4-grid-psd/ <br>
-http://getbootstrap.com/<br>
-http://google.com/fonts<br>
-http://creativedo.co/FontAwesomePS<br>
-http://zxpinstaller.com/<br>
+http://getbootstrap.com/ (Bootstrap Frontend Framework)<br>
+http://google.com/fonts (Free Fonts & Webfonts)<br>
+http://creativedo.co/FontAwesomePS (Font Awesome icons right inside Adobe Photoshop)<br>
+http://zxpinstaller.com/ (An open source Adobe extension installer) <br>
