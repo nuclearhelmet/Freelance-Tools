@@ -6,8 +6,6 @@ Freelancer &amp; Remoter Toolkits
 https://freelancer.com <br>
 https://upwork.com <br>
 
-<hr>
-
 <h2>Resources</h2>
 
 https://hackerthemes.com/bootstrap-4-grid-psd/ <br>
