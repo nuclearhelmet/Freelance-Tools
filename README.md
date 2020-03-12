@@ -4,7 +4,9 @@ Freelancer &amp; Remoter Toolkits
 <h2>Jobs</h2>
 
 https://freelancer.com <br>
-https//upwork.com
+https://upwork.com <br>
+
+<hr>
 
 <h2>Resources</h2>
 
